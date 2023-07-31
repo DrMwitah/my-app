@@ -42,6 +42,22 @@
   width: 200px;
   cursor: pointer;
   margin-bottom: 2%;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.greenbutton {
+  border-radius: 4px;
+  background-color: green;
+  border: none;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin-bottom: 2%;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 @media (max-width: 1000px) {
   .main {
